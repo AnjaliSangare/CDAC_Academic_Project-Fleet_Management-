@@ -7,8 +7,8 @@ This repository contains the Fleet Management System project, which is divided i
 
 ## Directory Structure
 
-- **Backend Project**: [Backend Project](https://github.com/AnjaliSangare/CDAC_Academic_Project-Fleet_Management-/tree/Frontend_Project/Backend%2520Project)
-- **Frontend Project**: [Frontend Project]((https://github.com/AnjaliSangare/CDAC_Academic_Project-Fleet_Management-/edit/Frontend_Project/README.md))
+- **Backend Project**: [Backend Project](Backend_Project/)
+- **Frontend Project**: [Frontend Project](https://github.com/AnjaliSangare/CDAC_Academic_Project-Fleet_Management-/edit/Frontend_Project/README.md)
 
 ## Projects
 
