@@ -1,0 +1,22 @@
+#reg {
+    /* Replace 'background-image.jpg' with the path to your background image file or URL */
+    background-image: url("https://i0.wp.com/www.csscodelab.com/wp-content/uploads/2020/03/css-background-image-linear-gradient.png?fit=1048%2C670&ssl=1");
+    background-size: cover; /* Adjust the background size as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+    /* You can also set background color as a fallback */
+    background-color: #f5f5f5; /* Choose a suitable background color */
+    /* You may want to adjust other styles like background-position and background-attachment */
+  }
+  #reg1
+  {
+   max-width: 1000px;
+   max-height: 4000px; 
+   margin: 0 auto;
+   margin-top: 20px;
+   background-color: #ede8e8;
+   padding: 20px;
+   border-radius: 10px;
+  
+   box-shadow: 0px 5px 7px rgb(18, 13, 13);
+  }

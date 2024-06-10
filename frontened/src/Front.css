@@ -1,0 +1,58 @@
+.nav-link {
+    margin-right: 20px; /* Add your preferred spacing value here */
+  }
+#head1
+{
+    font-style:italic;
+    font-display: bold;
+}  
+
+
+#p
+{
+  font-size:15px;
+  margin-left: 200px;
+}
+#a
+{
+  font-style:calc();
+  font-size:15px;
+  margin-left: 200px;
+}
+#m
+{
+ margin-top: 600px;
+}
+#headimg1
+{
+   height: 30px;
+   width: 50px;
+}
+#a1
+{
+
+  align-items: center;
+ 
+}
+
+ #a3
+ {
+  margin-top: 2px;
+  margin-left: 650px;
+
+ }
+ #h1
+ {
+  height: 20px;
+ }
+ #checkbox
+ {
+  border-color: black;
+ }
+ #cardtext
+ {
+  margin-top: 20px;
+  height: 550px;
+ }
+  
+ 
